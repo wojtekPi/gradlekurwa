@@ -1,5 +1,3 @@
-set -e
-
 GRADLE_DIR_KUR=~/.gradle
 
 if [ ! -d "$GRADLE_DIR_KUR" ]; then
